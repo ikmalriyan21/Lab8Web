@@ -80,13 +80,13 @@ Bertambah 1 barang yaitu Notebook
 
 ![input](https://github.com/ikmalriyan21/Lab8Web/blob/4c25af4453fd218c99e9ec31bd575fae075425e0/gambar/Hasil%20Output%20bertambah%201%20barang.png)
 
+Membuat ubah data barang
 
 
 
 
 
-
-
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/553e9d9dbc9588d780f9d9c893c91ee00a040978/gambar/Codingan%20untuk%20mengubah%20data%201.png)
 
 
 
