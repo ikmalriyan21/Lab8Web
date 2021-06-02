@@ -50,6 +50,34 @@ Selanjutnya menambah data barang
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/438ae4e23dfb696b9c3d199242e2ba7bc347029f/gambar/Codingan%20untuk%20menambah%20data%201.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
