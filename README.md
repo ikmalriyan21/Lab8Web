@@ -22,7 +22,7 @@ Hasil outputnya
 
 ![input](https://github.com/ikmalriyan21/Lab8Web/blob/9f224afd9459f50d2354195f7b23137a856cba9d/gambar/Output%20koneksi%20database.png)
 
-Selanjutnya menambahkan data barang
+Selanjutnya membuat data barang
 
 
 
@@ -42,9 +42,9 @@ Hasil output dari data barang
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/2f4fa8868c23a3184590360e255b6ff3e4857757/gambar/Output%20untuk%20menampilkan%20data%20barang.png)
 
-
-
+Selanjutnya menambah data barang
 
 
 
