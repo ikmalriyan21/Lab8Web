@@ -28,6 +28,26 @@ Selanjutnya menambahkan data barang
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/3d969eecd367bd63269a0d0da697b1c8b66c75d4/gambar/Codingan%20untuk%20menampilkan%20data%20barang%201.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
