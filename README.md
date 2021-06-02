@@ -128,6 +128,24 @@ Membuat hapus barang, agar data barang itu terhapus
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/fde6c1575fc7defd36574166944e95f2df83aa17/gambar/Codingan%20untuk%20menghapus%20data.png)
+
+Klik hapus dan lihat hasilnya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
