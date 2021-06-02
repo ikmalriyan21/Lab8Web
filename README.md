@@ -62,9 +62,9 @@ Selanjutnya menambah data barang
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/987be68c8883a44a3926b5d65f3d600c3c7353f5/gambar/Codingan%20untuk%20menambah%20data%203.png)
 
-
-
+Hasil output dari tambah barang, masukan isi dari kolom tersebut sesuai keinginan kalian, lalu klik simpan dan lihat hasilnya.
 
 
 
