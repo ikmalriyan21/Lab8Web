@@ -70,9 +70,9 @@ Hasil output dari tambah barang, masukan isi dari kolom tersebut sesuai keingina
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/9a354c4b7aa166efaf50a24dcf568f4fd70113e2/gambar/Hasil%20Output%20tambah%20barang.png)
 
-
-
+Bertambah 1 barang yaitu Notebook
 
 
 
