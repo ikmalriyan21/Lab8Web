@@ -34,9 +34,9 @@ Selanjutnya menambahkan data barang
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/87eef2e1ef066f8ef1d23bdbab77350eb70c6042/gambar/Codingan%20untuk%20menampilkan%20data%20barang%202.png)
 
-
-
+Hasil output dari data barang
 
 
 
