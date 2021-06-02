@@ -78,6 +78,30 @@ Bertambah 1 barang yaitu Notebook
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/4c25af4453fd218c99e9ec31bd575fae075425e0/gambar/Hasil%20Output%20bertambah%201%20barang.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
