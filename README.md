@@ -20,9 +20,9 @@ Hasil outputnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/9f224afd9459f50d2354195f7b23137a856cba9d/gambar/Output%20koneksi%20database.png)
 
-
-
+Selanjutnya menambahkan data barang
 
 
 
