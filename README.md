@@ -122,7 +122,7 @@ Stok barang telah berubah
 
 ![input](https://github.com/ikmalriyan21/Lab8Web/blob/bffe6d425e8c3f1f7c897a77e0b04a615e63436b/gambar/Hasil%20stok%20barang%20telah%20berubah.png)
 
-
+Membuat hapus barang, agar data barang itu terhapus
 
 
 
