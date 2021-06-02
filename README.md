@@ -106,7 +106,7 @@ Membuat ubah data barang
 
 ![input](https://github.com/ikmalriyan21/Lab8Web/blob/1e6649a7669193f53bd94a39cfd45877601ca0a2/gambar/Codingan%20untuk%20mengubah%20data%204.png)
 
-Hasil output ubah barang, lalu ganti di bagian kategori dan stok, klik kirim dan lihat hasilnya
+Hasil output ubah barang, lalu ganti di bagian kategori dan stok, klik simpan dan lihat hasilnya
 
 
 
@@ -114,13 +114,13 @@ Hasil output ubah barang, lalu ganti di bagian kategori dan stok, klik kirim dan
 
 ![input](https://github.com/ikmalriyan21/Lab8Web/blob/ce7b924582171441913aa96d17bc26784ca038ef/gambar/Output%20ubah%20barang.png)
 
+Stok barang telah berubah
 
 
 
 
 
-
-
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/bffe6d425e8c3f1f7c897a77e0b04a615e63436b/gambar/Hasil%20stok%20barang%20telah%20berubah.png)
 
 
 
