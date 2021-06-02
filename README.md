@@ -104,4 +104,32 @@ Membuat ubah data barang
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/1e6649a7669193f53bd94a39cfd45877601ca0a2/gambar/Codingan%20untuk%20mengubah%20data%204.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
