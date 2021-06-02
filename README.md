@@ -136,18 +136,10 @@ Klik hapus dan lihat hasilnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/c31450c28493efac8d3244316d9b60735586dd8d/gambar/Output%20membuat%20data%20barang%20terhapus.png)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+![input](https://github.com/ikmalriyan21/Lab8Web/blob/2f4fa8868c23a3184590360e255b6ff3e4857757/gambar/Output%20untuk%20menampilkan%20data%20barang.png)
